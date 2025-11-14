@@ -1,7 +1,12 @@
 {
-  "prx5y_dependancys": "1.0.0",
-  "com_prx5y_castle_walls": "1.0.2",
-  "Spooky MirrorPark House": "1.0.0",
-  "Janky Jacks MLO - Prx5y": "1.0.0",
-  "Stylish Laptop Backpack": "1.0.0",
+  "com_prx5y_castle_walls": {
+    "version": "1.0.2",
+    "patchNotes": [
+      "Added new minimalist UI design",
+      "Improved background lighting",
+      "Redesigned logo section with animations",
+      "Fixed ticker scrolling performance",
+      "Removed external URL dependencies"
+    ]
+  },
 }
