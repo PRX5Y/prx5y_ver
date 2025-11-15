@@ -1,5 +1,6 @@
 {
-  "prx5y_dependancys": "1.0.3": "added patch notes to concole",
-  "com_prx5y_castle_walls": "1.0.1": "na",
-  "prod_prx5y_crack_house": "1.0.0": "na",
+  "prx5y_dependancys": {
+    "1.0.0": "patch note text",
+    "1.0.1": "another patch note"
+  },
 }
