@@ -1,5 +1,17 @@
 {
-  "prx5y_dependancys": "1.0.0",
-  "com_prx5y_castle_walls": "1.0.1",
-  "prod_prx5y_crack_house": "1.0.0",
+  "prx5y_dependancys": {
+    "1.0.0": {
+      "patchnotes": "added patchnotes to console"
+    },
+  },
+    "com_prx5y_castle_walls": {
+    "1.0.1": {
+      "patchnotes": "na"
+    },
+  },
+    "prod_prx5y_crack_house": {
+    "1.0.0": {
+      "patchnotes": "na"
+    },
+  },
 }
