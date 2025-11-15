@@ -1,6 +1,17 @@
 {
   "prx5y_dependancys": {
-    "1.0.0": "patch note text",
-    "1.0.1": "another patch note"
+    "1.0.0": "base version",
+    "1.0.1": "added patchnotes to version checker"
+  },
+  "com_prx5y_castle_walls": {
+    "1.0.0": "base version",
+    "1.0.1": "fixed mesh faces"
+  },
+   "prod_prx5y_crack_house": {
+    "1.0.0": "base version",
+    "1.0.1": "fixed xmas lights"
+  },
+  "urp_prx5y_mph1": {
+    "1.0.0": "base version",
   },
 }
